@@ -3,5 +3,9 @@ Git is free software.
 sta:this is done to confirm how the stage works.
 lable 2
 lable 3
+<<<<<<< HEAD
 Creating a branch is quick & simple 
+=======
+Creating a branch is quick and simple 
+>>>>>>> feature1
 
